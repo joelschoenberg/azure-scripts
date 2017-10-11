@@ -85,27 +85,15 @@ print customMetric
 # ---------------------------------------------------------------------------
 # PART 3: INSERT THE JSON PAYLOAD INTO APPDYNAMICS
 # TODO: Parameterize this sensitive information
-# My Analytics API key for 43 enablement controller
+# My Analytics API key (RAVELLO 43 enablement controller)
 # 502c4052-9d55-4872-9d3d-4ea3e6784a25
 # New Analytics API Key that does not include Transaction access
 # 58cea969-3536-4950-b0b6-753ffeae8e64
 # My Analytics API key with everything
 # 50c4c457-d91a-44b6-a6e1-437d1f35e50a
-
 # My Account name for 43 enablement controller
 # customer1
 
-# My Global Account name
-# customer1_b7686ddf-6680-43f3-bbeb-303c027344e2
-
-# My API Key
-# ff11d48d-37ac-4c41-ad9e-11554aa65216
-
-# Hybrid EUM account
-# test-eum-account-joelschoenberg-1507682182576
-
-# EUM License key
-# 980b2e1b-e2cf-4069-830b-4f8d8456374b
 
 # PART 3A: CREATE THE SCHEMA FOR THE COUNT OF REQUESTS FOR MY SERVERLESS FUNCTION
 #
